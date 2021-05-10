@@ -1,7 +1,5 @@
 # DevCars - Bootcamp ASP.NET Core
 
-[Acesse a playlist com as Lives no YouTube aqui.](https://www.youtube.com/playlist?list=PLI2XdbZhEq4kCcsMAEHq8JB_ss2A7b2ia)
-
 Será desenvolvida uma API REST completa de gerenciamento de vendas de carros.
 
 ## Tecnologias e práticas utilizadas
